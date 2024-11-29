@@ -2,6 +2,11 @@
 
 Бүх мэдээллийг [https://1234.mn/course/166](https://1234.mn/course/166)-ээс үзнэ үү
 
+```javascript
+function test(){
+  console.log("Hello World!!!")
+}
+
 readme
 
 
