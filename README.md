@@ -1,4 +1,4 @@
-# Git-Commands
+# Git-Commands :octocat:
 
 Бүх мэдээллийг [https://1234.mn/course/166](https://1234.mn/course/166)-ээс үзнэ үү
 
