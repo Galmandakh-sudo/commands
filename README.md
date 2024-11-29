@@ -5,8 +5,8 @@
 readme
 
 
-### List of Commands
----
+## List of Commands
+
 
 `git add .` **Add all unstaged file to stage**  
 
